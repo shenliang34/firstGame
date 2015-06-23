@@ -7,11 +7,3 @@ public:
 private:
 
 };
-
-BackLayerScene::BackLayerScene()
-{
-}
-
-BackLayerScene::~BackLayerScene()
-{
-}
